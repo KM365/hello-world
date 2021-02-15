@@ -1,2 +1,3 @@
 # hello-world
-just another respitory
+Hi there 
+I am a newbie in this programming stuff!
